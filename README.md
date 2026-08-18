@@ -249,5 +249,5 @@ lifestyle: "arquitetar sistemas de alta concorrência e mentorar squads"
 
 <p align="center">
   <a href="mailto:joaofel98@gmail.com"><img src="https://img.shields.io/badge/-Vamos%20conversar-6C63FF?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jhonnybrn"><img src="https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jhonnybrz"><img src="https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
