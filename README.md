@@ -119,8 +119,8 @@ lifestyle: "arquitetar sistemas de alta concorrência e mentorar squads"
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoFelCs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoFelCs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=6C63FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoFelCs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&cache_seconds=1800&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoFelCs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=6C63FF&cache_seconds=1800&v=2" />
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ lifestyle: "arquitetar sistemas de alta concorrência e mentorar squads"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoFelCs&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoFelCs&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&v=2" />
 </p>
 
 ## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Gráfico de Atividade
