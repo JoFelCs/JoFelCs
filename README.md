@@ -119,20 +119,7 @@ lifestyle: "arquitetar sistemas de alta concorrência e mentorar squads"
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Estatísticas do GitHub
 
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JoFelCs&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=DD0031&currStreakLabel=6C63FF" />
-</p>
-
-<p align="center">
-  <img src="./metrics-languages.svg" alt="Linguagens" width="49%" />
-  <img src="./metrics-habits.svg" alt="Hábitos" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./metrics-achievements.svg" alt="Conquistas" width="100%" />
 </p>
 
 ## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Gráfico de Atividade
